@@ -1,0 +1,42 @@
+[submodule "task"]
+	path = task
+	url = https://github.com/minimum-hsu/docker-openfalcon-task
+[submodule "fe"]
+	path = fe
+	url = https://github.com/minimum-hsu/docker-openfalcon-fe
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/minimum-hsu/docker-openfalcon-mysql
+[submodule "build"]
+	path = build
+	url = https://github.com/minimum-hsu/docker-openfalcon-build
+[submodule "sender"]
+	path = sender
+	url = https://github.com/minimum-hsu/docker-openfalcon-sender
+[submodule "alarm"]
+	path = alarm
+	url = https://github.com/minimum-hsu/docker-openfalcon-alarm
+[submodule "judge"]
+	path = judge
+	url = https://github.com/minimum-hsu/docker-openfalcon-judge
+[submodule "hbs"]
+	path = hbs
+	url = https://github.com/minimum-hsu/docker-openfalcon-hbs
+[submodule "transfer"]
+	path = transfer
+	url = https://github.com/minimum-hsu/docker-openfalcon-transfer
+[submodule "portal"]
+	path = portal
+	url = https://github.com/minimum-hsu/docker-openfalcon-portal
+[submodule "query"]
+	path = query
+	url = https://github.com/minimum-hsu/docker-openfalcon-query
+[submodule "graph"]
+	path = graph
+	url = https://github.com/minimum-hsu/docker-openfalcon-graph
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/minimum-hsu/docker-openfalcon-dashboard
+[submodule "links"]
+	path = links
+	url = https://github.com/minimum-hsu/docker-openfalcon-links
