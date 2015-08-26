@@ -40,3 +40,9 @@
 [submodule "links"]
 	path = links
 	url = https://github.com/minimum-hsu/docker-openfalcon-links
+[submodule "agent"]
+	path = agent
+	url = https://github.com/minimum-hsu/docker-openfalcon-agent.git
+[submodule "docker-compose"]
+	path = docker-compose
+	url = https://github.com/minimum-hsu/docker-compose-openfalcon.git
