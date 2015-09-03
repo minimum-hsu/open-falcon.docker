@@ -12,10 +12,12 @@
 	url = https://github.com/minimum-hsu/docker-openfalcon-build
 [submodule "sender"]
 	path = sender
-	url = https://github.com/minimum-hsu/docker-openfalcon-sender
+	url = https://github.com/minimum-hsu/docker-openfalcon-sender.git
+	branch = send2qq
 [submodule "alarm"]
 	path = alarm
-	url = https://github.com/minimum-hsu/docker-openfalcon-alarm
+	url = https://github.com/minimum-hsu/docker-openfalcon-alarm.git
+	branch = send2qq
 [submodule "judge"]
 	path = judge
 	url = https://github.com/minimum-hsu/docker-openfalcon-judge
