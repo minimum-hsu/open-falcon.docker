@@ -46,3 +46,6 @@
 [submodule "docker-compose"]
 	path = docker-compose
 	url = https://github.com/minimum-hsu/docker-compose-openfalcon.git
+[submodule "nodata"]
+	path = nodata
+	url = https://github.com/minimum-hsu/docker-openfalcon-nodata.git
